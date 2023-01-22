@@ -1,16 +1,6 @@
-# flutter_application_1
+# CarPooling App
 
-A new Flutter project.
+A new GDSC Project
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Carpooling is a transportation option where multiple people share a single vehicle to travel to a common destination. This can help reduce the number of cars on the road, decrease traffic congestion, and lower air pollution. Carpooling can also save money on fuel and parking costs, and can be a more efficient and convenient way to travel for those who participate. Carpooling can be arranged informally among friends, family, or coworkers, or can be organized through a formal carpooling program or app.
